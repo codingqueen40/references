@@ -11,4 +11,4 @@ Bienvenue dans le dépôt officiel du support du cours HTML pour débutantes de 
 ---
 
 📥 **Télécharge le PDF ici** :  
-👉 [html-support.pdf](https://codingqueen40.github.io/references/support-HTML.pdf)
+👉 [support-HTML.pdf](https://codingqueen40.github.io/references/support-HTML.pdf)
